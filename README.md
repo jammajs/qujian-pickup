@@ -16,13 +16,12 @@
 | 包名 | `com.qujian.pickup2` |
 | 最低系统 | Android 7.0（API 24） |
 | 目标系统 | Android 14（API 34） |
-| 签名 | Android 调试签名（debug） |
 | 体积 | 约 45.4 MB |
 
 安装前请注意：
 
 - 系统可能提示「未知来源应用」或「该安装包未经验证」——因为使用调试签名且未上架应用商店，属正常现象。
-- 安装包的 MD5 见 [RELEASE_NOTES.md](RELEASE_NOTES.md)，可用于核对下载是否完整。
+- 校验值见 Releases 页 v1.0.0 说明。
 
 ---
 
